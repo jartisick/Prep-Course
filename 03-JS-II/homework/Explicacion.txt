@@ -1,0 +1,2 @@
+El bucle for se utiliza para repetir código y hacer más práctico y menos tedioso nuestro trabajo.
+Los operadores lógicos &&, || y ! son herramientas que se utilizan para comparar valores booleanos?? algo así 
